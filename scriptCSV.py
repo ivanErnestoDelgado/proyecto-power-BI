@@ -4,7 +4,7 @@ import csv
 # Ruta al archivo SQLite
 sqlite_file = 'db.sqlite3'
 
-# Nombre de la tabla que deseas exportar (modifica esto según tu necesidad)
+# Nombre de la tabla que deseas exportar (modifica   esto según tu necesidad)
 table_name = 'smartpots_smartpot'  # ← reemplaza con el nombre real de tu tabla
 
 # Nombre del archivo CSV de salida

@@ -5,7 +5,7 @@ import pandas as pd
 sqlite_file = 'db.sqlite3'  
 
 # Nombre de la tabla que deseas exportar
-table_name = 'plants_plant'  # ← reemplaza con el nombre real de tu tabla
+table_name = 'users_userprofile'  # ← reemplaza con el nombre real de tu tabla
 
 # Nombre del archivo Excel de salida
 excel_file = f'{table_name}.xlsx'

@@ -1,0 +1,646 @@
+[
+    {
+        "id": 6,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja, Temperatura baja, Humedad baja",
+        "create_time": "2024-11-26 03:54:17.124806",
+        "smartpot_id": 9
+    },
+    {
+        "id": 7,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2024-11-26 03:55:25.345694",
+        "smartpot_id": 9
+    },
+    {
+        "id": 8,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2024-12-02 07:58:44.815150",
+        "smartpot_id": 11
+    },
+    {
+        "id": 9,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2024-12-02 07:58:44.842876",
+        "smartpot_id": 11
+    },
+    {
+        "id": 10,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2024-12-02 07:58:44.860594",
+        "smartpot_id": 11
+    },
+    {
+        "id": 11,
+        "alert_type": "peligroModerado",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Humedad baja",
+        "create_time": "2024-12-02 07:58:44.886599",
+        "smartpot_id": 11
+    },
+    {
+        "id": 12,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2024-12-02 07:58:44.908317",
+        "smartpot_id": 11
+    },
+    {
+        "id": 13,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2024-12-02 08:11:28.814145",
+        "smartpot_id": 10
+    },
+    {
+        "id": 14,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2024-12-02 08:11:28.832149",
+        "smartpot_id": 10
+    },
+    {
+        "id": 15,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2024-12-02 08:11:28.847152",
+        "smartpot_id": 10
+    },
+    {
+        "id": 16,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2024-12-02 08:11:28.863155",
+        "smartpot_id": 10
+    },
+    {
+        "id": 17,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2024-12-02 08:11:28.878159",
+        "smartpot_id": 10
+    },
+    {
+        "id": 18,
+        "alert_type": "eventoRiego",
+        "alert_content": "Maceta regada",
+        "create_time": "2024-12-02 08:27:10.673307",
+        "smartpot_id": 11
+    },
+    {
+        "id": 19,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja, Humedad baja",
+        "create_time": "2025-03-11 03:00:20.284706",
+        "smartpot_id": 11
+    },
+    {
+        "id": 20,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja, Humedad baja",
+        "create_time": "2025-03-11 03:03:03.540573",
+        "smartpot_id": 11
+    },
+    {
+        "id": 21,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja, Humedad baja",
+        "create_time": "2025-03-11 03:04:56.564316",
+        "smartpot_id": 11
+    },
+    {
+        "id": 22,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja, Humedad baja",
+        "create_time": "2025-03-11 03:06:50.863403",
+        "smartpot_id": 11
+    },
+    {
+        "id": 23,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja, Humedad baja",
+        "create_time": "2025-03-11 03:08:29.345164",
+        "smartpot_id": 11
+    },
+    {
+        "id": 24,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja, Humedad baja",
+        "create_time": "2025-03-11 03:36:17.790250",
+        "smartpot_id": 11
+    },
+    {
+        "id": 25,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja, Humedad baja",
+        "create_time": "2025-03-11 03:37:53.390289",
+        "smartpot_id": 11
+    },
+    {
+        "id": 26,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja, Humedad baja",
+        "create_time": "2025-03-11 03:56:22.277353",
+        "smartpot_id": 11
+    },
+    {
+        "id": 27,
+        "alert_type": "eventoRiego",
+        "alert_content": "Maceta regada",
+        "create_time": "2025-03-24 16:33:43.170062",
+        "smartpot_id": 11
+    },
+    {
+        "id": 28,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-03-25 09:15:22.123456",
+        "smartpot_id": 9
+    },
+    {
+        "id": 29,
+        "alert_type": "peligroModerado",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Temperatura baja",
+        "create_time": "2025-03-25 11:30:45.234567",
+        "smartpot_id": 10
+    },
+    {
+        "id": 30,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja, Humedad baja",
+        "create_time": "2025-03-25 14:45:12.345678",
+        "smartpot_id": 11
+    },
+    {
+        "id": 31,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-03-26 08:20:33.456789",
+        "smartpot_id": 9
+    },
+    {
+        "id": 32,
+        "alert_type": "peligroModerado",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Humedad baja",
+        "create_time": "2025-03-26 10:35:54.567890",
+        "smartpot_id": 10
+    },
+    {
+        "id": 33,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-03-26 16:50:21.678901",
+        "smartpot_id": 11
+    },
+    {
+        "id": 34,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja, Temperatura baja",
+        "create_time": "2025-03-27 07:15:43.789012",
+        "smartpot_id": 9
+    },
+    {
+        "id": 35,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-03-27 12:30:12.890123",
+        "smartpot_id": 10
+    },
+    {
+        "id": 36,
+        "alert_type": "peligroModerado",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Temperatura baja",
+        "create_time": "2025-03-27 18:45:34.901234",
+        "smartpot_id": 11
+    },
+    {
+        "id": 37,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-03-28 09:10:55.012345",
+        "smartpot_id": 9
+    },
+    {
+        "id": 38,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Humedad baja, Temperatura baja",
+        "create_time": "2025-03-28 14:25:16.123456",
+        "smartpot_id": 10
+    },
+    {
+        "id": 39,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-03-28 20:40:37.234567",
+        "smartpot_id": 11
+    },
+    {
+        "id": 40,
+        "alert_type": "peligroModerado",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja",
+        "create_time": "2025-03-29 06:55:58.345678",
+        "smartpot_id": 9
+    },
+    {
+        "id": 41,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-03-29 11:10:19.456789",
+        "smartpot_id": 10
+    },
+    {
+        "id": 42,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja, Humedad baja, Temperatura baja",
+        "create_time": "2025-03-29 17:25:40.567890",
+        "smartpot_id": 11
+    },
+    {
+        "id": 43,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-03-30 08:40:01.678901",
+        "smartpot_id": 9
+    },
+    {
+        "id": 44,
+        "alert_type": "peligroModerado",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Humedad baja",
+        "create_time": "2025-03-30 13:55:22.789012",
+        "smartpot_id": 10
+    },
+    {
+        "id": 45,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-03-30 19:10:43.890123",
+        "smartpot_id": 11
+    },
+    {
+        "id": 46,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Temperatura baja",
+        "create_time": "2025-03-31 05:25:04.901234",
+        "smartpot_id": 9
+    },
+    {
+        "id": 47,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-03-31 10:40:25.012345",
+        "smartpot_id": 10
+    },
+    {
+        "id": 48,
+        "alert_type": "peligroModerado",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja, Temperatura baja",
+        "create_time": "2025-03-31 16:55:46.123456",
+        "smartpot_id": 11
+    },
+    {
+        "id": 49,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-01 07:10:07.234567",
+        "smartpot_id": 9
+    },
+    {
+        "id": 50,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Humedad baja",
+        "create_time": "2025-04-01 12:25:28.345678",
+        "smartpot_id": 10
+    },
+    {
+        "id": 51,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-01 18:40:49.456789",
+        "smartpot_id": 11
+    },
+    {
+        "id": 52,
+        "alert_type": "peligroModerado",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Temperatura baja",
+        "create_time": "2025-04-02 09:55:10.567890",
+        "smartpot_id": 9
+    },
+    {
+        "id": 53,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-02 15:10:31.678901",
+        "smartpot_id": 10
+    },
+    {
+        "id": 54,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja, Humedad baja",
+        "create_time": "2025-04-02 21:25:52.789012",
+        "smartpot_id": 11
+    },
+    {
+        "id": 55,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-03 08:40:13.890123",
+        "smartpot_id": 9
+    },
+    {
+        "id": 56,
+        "alert_type": "peligroModerado",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Humedad baja, Temperatura baja",
+        "create_time": "2025-04-03 13:55:34.901234",
+        "smartpot_id": 10
+    },
+    {
+        "id": 57,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-03 19:10:55.012345",
+        "smartpot_id": 11
+    },
+    {
+        "id": 58,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja",
+        "create_time": "2025-04-04 06:25:16.123456",
+        "smartpot_id": 9
+    },
+    {
+        "id": 59,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-04 11:40:37.234567",
+        "smartpot_id": 10
+    },
+    {
+        "id": 60,
+        "alert_type": "peligroModerado",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Temperatura baja",
+        "create_time": "2025-04-04 17:55:58.345678",
+        "smartpot_id": 11
+    },
+    {
+        "id": 61,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-05 09:10:19.456789",
+        "smartpot_id": 9
+    },
+    {
+        "id": 62,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Humedad baja, Temperatura baja",
+        "create_time": "2025-04-05 14:25:40.567890",
+        "smartpot_id": 10
+    },
+    {
+        "id": 63,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-05 20:40:01.678901",
+        "smartpot_id": 11
+    },
+    {
+        "id": 64,
+        "alert_type": "peligroModerado",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja, Humedad baja",
+        "create_time": "2025-04-06 07:55:22.789012",
+        "smartpot_id": 9
+    },
+    {
+        "id": 65,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-06 13:10:43.890123",
+        "smartpot_id": 10
+    },
+    {
+        "id": 66,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Temperatura baja",
+        "create_time": "2025-04-06 19:25:04.901234",
+        "smartpot_id": 11
+    },
+    {
+        "id": 67,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-07 10:40:25.012345",
+        "smartpot_id": 9
+    },
+    {
+        "id": 68,
+        "alert_type": "peligroModerado",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Humedad baja",
+        "create_time": "2025-04-07 15:55:46.123456",
+        "smartpot_id": 10
+    },
+    {
+        "id": 69,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-07 21:10:07.234567",
+        "smartpot_id": 11
+    },
+    {
+        "id": 70,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja, Temperatura baja",
+        "create_time": "2025-04-08 08:25:28.345678",
+        "smartpot_id": 9
+    },
+    {
+        "id": 71,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-08 13:40:49.456789",
+        "smartpot_id": 10
+    },
+    {
+        "id": 72,
+        "alert_type": "peligroModerado",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Humedad baja",
+        "create_time": "2025-04-08 19:55:10.567890",
+        "smartpot_id": 11
+    },
+    {
+        "id": 73,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-09 10:10:31.678901",
+        "smartpot_id": 9
+    },
+    {
+        "id": 74,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja, Humedad baja",
+        "create_time": "2025-04-09 15:25:52.789012",
+        "smartpot_id": 10
+    },
+    {
+        "id": 75,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-09 21:40:13.890123",
+        "smartpot_id": 11
+    },
+    {
+        "id": 76,
+        "alert_type": "peligroModerado",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Temperatura baja",
+        "create_time": "2025-04-10 08:55:34.901234",
+        "smartpot_id": 9
+    },
+    {
+        "id": 77,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-10 14:10:55.012345",
+        "smartpot_id": 10
+    },
+    {
+        "id": 78,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Humedad baja, Temperatura baja",
+        "create_time": "2025-04-10 20:25:16.123456",
+        "smartpot_id": 11
+    },
+    {
+        "id": 79,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-11 11:40:37.234567",
+        "smartpot_id": 9
+    },
+    {
+        "id": 80,
+        "alert_type": "peligroModerado",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja",
+        "create_time": "2025-04-11 16:55:58.345678",
+        "smartpot_id": 10
+    },
+    {
+        "id": 81,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-11 22:10:19.456789",
+        "smartpot_id": 11
+    },
+    {
+        "id": 82,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja, Humedad baja",
+        "create_time": "2025-04-12 09:25:40.567890",
+        "smartpot_id": 9
+    },
+    {
+        "id": 83,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-12 14:40:01.678901",
+        "smartpot_id": 10
+    },
+    {
+        "id": 84,
+        "alert_type": "peligroModerado",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Temperatura baja",
+        "create_time": "2025-04-12 20:55:22.789012",
+        "smartpot_id": 11
+    },
+    {
+        "id": 85,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-13 12:10:43.890123",
+        "smartpot_id": 9
+    },
+    {
+        "id": 86,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Humedad baja",
+        "create_time": "2025-04-13 17:25:04.901234",
+        "smartpot_id": 10
+    },
+    {
+        "id": 87,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-13 23:40:25.012345",
+        "smartpot_id": 11
+    },
+    {
+        "id": 88,
+        "alert_type": "peligroModerado",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja, Temperatura baja",
+        "create_time": "2025-04-14 10:55:46.123456",
+        "smartpot_id": 9
+    },
+    {
+        "id": 89,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-14 16:10:07.234567",
+        "smartpot_id": 10
+    },
+    {
+        "id": 90,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Humedad baja, Temperatura baja",
+        "create_time": "2025-04-14 22:25:28.345678",
+        "smartpot_id": 11
+    },
+    {
+        "id": 91,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-15 13:40:49.456789",
+        "smartpot_id": 9
+    },
+    {
+        "id": 92,
+        "alert_type": "peligroModerado",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja",
+        "create_time": "2025-04-15 18:55:10.567890",
+        "smartpot_id": 10
+    },
+    {
+        "id": 93,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-16 00:10:31.678901",
+        "smartpot_id": 11
+    },
+    {
+        "id": 94,
+        "alert_type": "peligroAlto",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Luz baja, Humedad baja",
+        "create_time": "2025-04-16 11:25:52.789012",
+        "smartpot_id": 9
+    },
+    {
+        "id": 95,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-16 16:40:13.890123",
+        "smartpot_id": 10
+    },
+    {
+        "id": 96,
+        "alert_type": "peligroModerado",
+        "alert_content": "Los siguientes parametros estan fuera de limite: Temperatura baja",
+        "create_time": "2025-04-16 22:55:34.901234",
+        "smartpot_id": 11
+    },
+    {
+        "id": 97,
+        "alert_type": "peligroNulo",
+        "alert_content": "Maceta fuera de peligro",
+        "create_time": "2025-04-17 14:10:55.012345",
+        "smartpot_id": 9
+    }
+]
